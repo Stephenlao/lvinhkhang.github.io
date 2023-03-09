@@ -1,0 +1,30 @@
+.rmit-logo, .my-pic {
+    display: block;
+    width: 150px;
+    margin-top: 0;
+
+}
+
+.my-pic {
+    border-radius: 75px;
+    margin-top: 10px
+
+}
+
+.zalo-logo {
+    width: 24px;
+}
+
+.connect-connection {
+    display: flex;
+    align-items: center;
+
+}
+
+.connection-pic {
+    display: flex;
+    /* justify-content: center; */
+    width: 24px;
+    height: 24px;
+    margin-left: 8px;
+}
